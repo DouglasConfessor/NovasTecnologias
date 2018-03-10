@@ -1,11 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  int num,
-      bin,
-      aux,
-      dig,
-      pot;                               
+  int num, bin, aux, dig, pot;                               
       
   printf("\n\tDigite um numero inteiro: \n");
   scanf("%d", &num);
